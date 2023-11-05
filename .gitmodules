@@ -10,3 +10,12 @@
 [submodule "leaderboard_svc"]
 	path = leaderboard_svc
 	url = https://github.com/pranav142/leaderboard_svc.git
+[submodule "challenge_generator_svc"]
+	path = challenge_generator_svc
+	url = https://github.com/Kasyap-R/challenge_generator_svc.git
+[submodule "user_management_svc"]
+	path = user_management_svc
+	url = https://github.com/Kasyap-R/user_management_svc.git
+[submodule "UI"]
+	path = UI
+	url = https://github.com/Kasyap-R/TIAA-Frontend.git
