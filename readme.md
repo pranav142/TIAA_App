@@ -54,3 +54,10 @@ Streak Service
 docker pull pknadimp/streak_svc
 docker run -d -p 5000:5000 pknadimp/streak_svc
 ```
+
+### User Interface
+
+```shell
+npm install --save-dev rollup
+npm run deploy
+```
