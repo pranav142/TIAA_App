@@ -16,6 +16,7 @@
 [submodule "user_management_svc"]
 	path = user_management_svc
 	url = https://github.com/Kasyap-R/user_management_svc.git
-[submodule "UI"]
-	path = UI
-	url = https://github.com/Kasyap-R/TIAA-Frontend.git
+
+[submodule "UserInterface"]
+	path = UserInterface
+	url = https://github.com/sammy1848/TIAA_UI.git
