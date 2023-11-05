@@ -1,0 +1,12 @@
+[submodule "avatar_svc"]
+	path = avatar_svc
+	url = https://github.com/pranav142/avatar_service.git
+[submodule "payment_svc"]
+	path = payment_svc
+	url = https://github.com/pranav142/payment_svc.git
+[submodule "streak_management_svc"]
+	path = streak_management_svc
+	url = https://github.com/pranav142/streak_management_service.git
+[submodule "leaderboard_svc"]
+	path = leaderboard_svc
+	url = https://github.com/pranav142/leaderboard_svc.git
